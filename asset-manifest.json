@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coindemo/static/css/main.ed32757c.chunk.css",
-    "main.js": "/coindemo/static/js/main.be451293.chunk.js",
-    "main.js.map": "/coindemo/static/js/main.be451293.chunk.js.map",
+    "main.js": "/coindemo/static/js/main.5bbafe77.chunk.js",
+    "main.js.map": "/coindemo/static/js/main.5bbafe77.chunk.js.map",
     "runtime-main.js": "/coindemo/static/js/runtime-main.8deac632.js",
     "runtime-main.js.map": "/coindemo/static/js/runtime-main.8deac632.js.map",
     "static/js/2.09e0867f.chunk.js": "/coindemo/static/js/2.09e0867f.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8deac632.js",
     "static/js/2.09e0867f.chunk.js",
     "static/css/main.ed32757c.chunk.css",
-    "static/js/main.be451293.chunk.js"
+    "static/js/main.5bbafe77.chunk.js"
   ]
 }
