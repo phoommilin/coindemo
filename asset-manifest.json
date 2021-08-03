@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/coindemo/static/css/main.ed32757c.chunk.css",
-    "main.js": "/coindemo/static/js/main.522763fe.chunk.js",
-    "main.js.map": "/coindemo/static/js/main.522763fe.chunk.js.map",
+    "main.js": "/coindemo/static/js/main.c5ee1fb4.chunk.js",
+    "main.js.map": "/coindemo/static/js/main.c5ee1fb4.chunk.js.map",
     "runtime-main.js": "/coindemo/static/js/runtime-main.8deac632.js",
     "runtime-main.js.map": "/coindemo/static/js/runtime-main.8deac632.js.map",
-    "static/js/2.1397a584.chunk.js": "/coindemo/static/js/2.1397a584.chunk.js",
-    "static/js/2.1397a584.chunk.js.map": "/coindemo/static/js/2.1397a584.chunk.js.map",
+    "static/js/2.37752e55.chunk.js": "/coindemo/static/js/2.37752e55.chunk.js",
+    "static/js/2.37752e55.chunk.js.map": "/coindemo/static/js/2.37752e55.chunk.js.map",
     "static/js/3.463befce.chunk.js": "/coindemo/static/js/3.463befce.chunk.js",
     "static/js/3.463befce.chunk.js.map": "/coindemo/static/js/3.463befce.chunk.js.map",
     "index.html": "/coindemo/index.html",
     "static/css/main.ed32757c.chunk.css.map": "/coindemo/static/css/main.ed32757c.chunk.css.map",
-    "static/js/2.1397a584.chunk.js.LICENSE.txt": "/coindemo/static/js/2.1397a584.chunk.js.LICENSE.txt",
+    "static/js/2.37752e55.chunk.js.LICENSE.txt": "/coindemo/static/js/2.37752e55.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/coindemo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8deac632.js",
-    "static/js/2.1397a584.chunk.js",
+    "static/js/2.37752e55.chunk.js",
     "static/css/main.ed32757c.chunk.css",
-    "static/js/main.522763fe.chunk.js"
+    "static/js/main.c5ee1fb4.chunk.js"
   ]
 }
